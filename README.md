@@ -1,3 +1,5 @@
-# Ember
+# GIFFtv (formerly Ember)
 
-Install file for the Ember Fire TV IPTV player. Download the APK from Releases.
+Fire TV IPTV player. Download `ember.apk` from [Releases](https://github.com/InVisionCRM/ember-releases/releases/latest).
+
+Short install link for Downloader: https://is.gd/emberfiretv
